@@ -1,6 +1,6 @@
 # WARP
 
-WARP for Windows. Category: Utilities catalog. Version 2026.7.1376.0.
+Cloudflare WARP ships as a Windows x64 catalog card. Size 56 MB. Last listed 15 Oct 2026.
 
 Cloudflare WARP on Windows 10/11 x64. 56 MB. Requirements, screenshots, MoggyDay Launcher.
 
